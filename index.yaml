@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jwp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-22T00:28:15.41071064Z"
+    description: A Helm chart for Kubernetes
+    digest: 3b00a3aad713d2b2a2e8f3e59307520a2d21f2c5cddc0a087208b9d4ca81ec39
+    name: jwp
+    type: application
+    urls:
+    - https://terence2050.github.io/helm-app25/jwp-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-22T00:28:15.409826106Z"
